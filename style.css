@@ -1,4 +1,67 @@
 html {
   height: 100%;
   width: 100%;
+  background-color: #CE7572;
+}
+.island-moments-regular {
+  font-family: "Island Moments", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+img{
+  float: left;
+  width: 100px;
+  height: 100px;
+}
+#logo{
+  float: right;
+  width: 100px;
+  height: 100px;
+}
+h1{
+  font-family: "Island Moments", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #FADA7A;
+  font-size: 80px;
+  text-align: left;
+}
+#pirmais{
+  padding-bottom: 0px;
+}
+h2{
+  font-family: "Island Moments", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #FADA7A;
+  font-size:40px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: inline;
+  text-align: center;
+}
+
+li {
+  display: inline;
+  margin-right:10px;
+  text-align: center;
+  color:white;
+}
+img{
+  float: left;
+  width:450px;
+  height:700px;
+}
+a{
+  color: white;
+}
+.header{
+  display:flex;
+}
+#logodiv{
+  
 }

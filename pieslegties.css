@@ -4,8 +4,10 @@ html {
   background-color: #CE7572;
 }
 h1{
-  color: white;
-  font-size:70px;
-  text-align: center;
+ color:white;
+  font-size:50px;
+  text-align: left;
 }
- 
+ a{
+   color:white;
+ }

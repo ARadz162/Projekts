@@ -1,0 +1,22 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: #CE7572;
+}
+h1{
+  color: #FADA7A;
+  font-size:70px;
+  text-align: center;
+}
+a{
+  color:white;
+}
+p{
+  color:white;
+}
+#roze{
+  float:left
+}
+#kaste{
+  float:right;
+}

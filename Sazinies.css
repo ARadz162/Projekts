@@ -18,5 +18,24 @@ p{
 }
 a{
   color:white;
-  
+}
+.container {
+  display: flex;
+  justify-content: space-around;
+}
+.right {
+  display: flex;
+  flex-direction: column;
+  float: right;
+}
+#iemesls{
+height: 55px;
+}
+#aploksne{
+  height: 150px;
+  width: 150px;
+  margin-left: 200px;
+}
+.left{
+  margin-right: 400px;
 }
